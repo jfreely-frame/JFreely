@@ -2,11 +2,11 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>org.jfreely</groupId>
-    <artifactId>jfreely</artifactId>
+    <artifactId>jfreely-soa</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <artifactId>jfreely-cache</artifactId>
+  <artifactId>jfreely-soa-service-discovery</artifactId>
   <packaging>pom</packaging>
-  <name>jfreely-cache</name>
-  <description>缓存服务模块</description>
+  <name>jfreely-soa-service-discovery</name>
+  <description>服务发现模块</description>
 </project>

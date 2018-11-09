@@ -11,5 +11,7 @@
   	<module>jfreely-cache</module>
   	<module>jfreely-data</module>
   	<module>jfreely-soa</module>
+  	<module>jfreely-web</module>
+  	<module>jfreely-security</module>
   </modules>
 </project>

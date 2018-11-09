@@ -9,4 +9,15 @@
   <packaging>pom</packaging>
   <name>jfreely-soa</name>
   <description>分布式服务模块</description>
+  <modules>
+  	<module>jfreely-soa-transaction</module>
+  	<module>jfreely-soa-service-discovery</module>
+  	<module>jfreely-soa-config</module>
+  	<module>jfreely-soa-lock</module>
+  	<module>jfreely-soa-gateway</module>
+  	<module>freely-soa-sleuth</module>
+  	<module>jfreely-soa-sleuth</module>
+  	<module>jfreely-soa-hystrix</module>
+  	<module>jfreely-soa-fegin</module>
+  </modules>
 </project>

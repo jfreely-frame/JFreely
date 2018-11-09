@@ -5,13 +5,8 @@
     <artifactId>jfreely</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <artifactId>jfreely-common</artifactId>
+  <artifactId>jfreely-security</artifactId>
   <packaging>pom</packaging>
-  <name>jfreely-common</name>
-  <description>第三方组件服务模块</description>
-  <modules>
-  	<module>jfreely-common-mq</module>
-  	<module>jfreely-common-task</module>
-  	<module>jfreely-common-log</module>
-  </modules>
+  <name>jfreely-security</name>
+  <description>安全服务模块</description>
 </project>
